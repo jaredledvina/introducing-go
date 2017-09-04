@@ -1,3 +1,4 @@
-This repo contains all of the code/work done to complete the book:
-Introducing Go by Caleb Doxsey
-https://www.safaribooksonline.com/library/view/introducing-go/9781491941997/
+### Introducing Go Book Work
+
+This repo contains all of the code and work I've done to complete the book:
+[Introducing Go by Caleb Doxsey](http://shop.oreilly.com/product/0636920046516)
